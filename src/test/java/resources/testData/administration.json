@@ -1,0 +1,9 @@
+{
+  "credentials": {
+  "username": "testregister@aaa.com",
+  "password": "Wakram_123"
+},
+  "content": {
+    "tenantDisplayName": "Institute Management"
+  }
+}

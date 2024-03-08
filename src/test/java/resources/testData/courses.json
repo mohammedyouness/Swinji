@@ -1,0 +1,12 @@
+{
+  "credentials": {
+    "username": "testregister@aaa.com",
+    "password": "Wakram_123"
+  },
+  "course": {
+    "courseName": "Mhmd",
+    "subjectName": "Technology Information",
+    "grade": "Higher Education",
+    "teacherName": "nada rehan"
+  }
+}
